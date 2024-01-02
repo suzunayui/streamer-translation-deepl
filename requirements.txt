@@ -2,3 +2,5 @@ SpeechRecognition
 pyaudio
 python-dotenv
 deepl
+langdetect
+pocketsphinx
