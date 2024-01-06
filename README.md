@@ -3,6 +3,8 @@
 
 このアプリケーションは、マイクからの音声入力をリアルタイムで翻訳し、字幕表示するものです。
 
+<img width="966" alt="スクリーンショット 2024-01-06 102626" src="https://github.com/suzunayui/streamer-translation-deepl/assets/148876956/69ac90d3-b464-442d-b663-a9e3464953e4">
+
 ## 必要なもの
 
 - [DeepL API](https://www.deepl.com/ja/account/summary) の認証キー
